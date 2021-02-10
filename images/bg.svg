@@ -1,0 +1,11 @@
+<svg version="1.1" preserveAspectRatio="none" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 769">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="12.7412" y1="-37.6943" x2="1456.7413" y2="734.3057">
+	<stop  offset="0" style="stop-color:#FFE218"/>
+	<stop  offset="1" style="stop-color:#FF933F"/>
+</linearGradient>
+<path fill="url(#SVGID_1_)" d="M0,0v438.453v202.833l32.54,13.555c32.53,13.06,97.42,40.948,162.87,33.73
+	c64.79-6.722,129.96-47.285,194.47-47.285c65.45,0,130.91,40.563,195.41,40.563c65.17,0,129.96-40.563,195.42-27.009
+	c64.88,13.06,129.96,81.512,195.41,74.295c64.6-6.721,129.96-87.85,194.47-108.138c65.36-20.287,129.96,20.288,163.16,40.564
+	L1366,681.85V438.453V0H0z"/>
+</svg>
